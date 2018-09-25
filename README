@@ -1,0 +1,3 @@
+this project was created making use of P5.js a javascript framework and also the mapbox API service which allows you to map data to world maps.
+
+we took the data from an API made available by the US government. within the project the size of the earthquake is depicted by how big the circle is.
